@@ -1,6 +1,6 @@
-# Карта развития веб-разработчика
+# Карта развития веб-разработчика [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=%D0%9A%D0%B0%D1%80%D1%82%D0%B0+%D1%80%D0%B0%D0%B7%D0%B2%D0%B8%D1%82%D0%B8%D1%8F+%D0%B2%D0%B5%D0%B1-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%D0%B0&url=https://github.com/zualex/devmap/&via=iamZualex&hashtags=devmap)
 
-## Содержание 
+## Содержание
 - [**Каждый уважающий себя разработчик должен знать:**](#Каждый-уважающий-себя-разработчик-должен-знать-)
     - [ ] [Книги](#Книги-)
     - [ ] [Английский язык](#Английский-язык-)
@@ -75,16 +75,18 @@
 ---
 
 ### Английский язык [&uarr;](#Содержание)
-**Цель** - развить навык свободного чтения на английском языке.
-
 **Зачем** - большинство лучших курсов, справочных и учебных материалов доступно именно на английском языке. Если возникают трудности, то со знанием английского языка выше шансы найти ответ во всемирной паутине. Также если хотите работать в крутой престижной кампании, то без английского никак.
 
-- [ ] Ресурсы (Не обязательно выбирать все ресурсы, выберите или найдите то, что вам больше нравится):
+- Полезные ресурсы:
     - [ ] [Duolingo](https://www.duolingo.com/)
     - [ ] [Lingualeo](https://lingualeo.com/)
     - [ ] [Babadum](https://babadum.com/)
-    - [ ] [Anki](http://ankisrs.net/) программа для облегчения запоминания слов
-    - [ ] [Medium](https://medium.com/) блог-платформа, читать и писать статьи
+    - [ ] [Anki](http://ankisrs.net/) и карточки [4000 Essential English Words (all books) [en-en] M4R4M](https://ankiweb.net/shared/info/1898344648)
+    - [ ] [Techrocks](https://techrocks.ru) очень много статей переведенных с английского
+    - [ ] [English e-Reader](https://english-e-reader.net/) адаптированные книги на английском
+    - [ ] [British council](https://learnenglish.britishcouncil.org/) очень много полезной и структурированной информации для изучения
+    - [ ] [Jazz chants](http://www.onestopenglish.com/skills/listening/jazz-chants/mp3-files-and-recording-scripts/) тренеровка темпа и скорости речи, чтобы звучать более естественно
+    - [ ] [Engoo Daily news](https://engoo.com/app/daily-news) статьи на английском с разбивкой по уровням
 
 ---
 
@@ -102,9 +104,9 @@
 - [ ] Ресурсы:
     - [ ] [Курс: Bash: Основы командной строки (Hexlet)](https://ru.hexlet.io/courses/bash)
     - [ ] [Статья: Искусство командной строки (статья)](https://github.com/jlevy/the-art-of-command-line/blob/master/README-ru.md)
-    - [ ] [Статья: Руководство по установке Debian GNU/Linux](https://www.debian.org/releases/stable/i386/index.html.ru)
     - [ ] [Книга: Операционная система UNIX (Андрей Робачевский, Сергей Немнюгин, Ольга Стесик)](http://www.ozon.ru/context/detail/id/2419365/)
     - [ ] [Книга: Руководство администратора Linux (Эви Немет, Гарт Снайдер, Трент Р. Хейн)](https://www.ozon.ru/context/detail/id/7607778/)
+    - [ ] [Книга: Advanced Programming in the UNIX Environment (Richard Stevens)](https://www.amazon.com/Advanced-Programming-UNIX-Environment-3rd/dp/0321637739)
 
 ---
 
@@ -144,6 +146,7 @@
 
 - [ ] Документации, курсы:
     - [ ] [htmlbook](http://htmlbook.ru/)
+    - [ ] [MDN](https://developer.mozilla.org/en-US/)
     - [ ] [HTML academy](https://htmlacademy.ru/)
     - [ ] [Введение в schema.org (yandex)](https://yandex.ru/support/webmaster/schema-org/intro-schema-org.xml)
 
@@ -293,7 +296,12 @@
     - [ ] [Алгоритм Дейкстры. Поиск оптимальных маршрутов на графе (habrahabr)](https://habrahabr.ru/post/111361/)
 
 - [ ] Книга:
+    - [ ] [Грокаем алгоритмы. Иллюстрированное пособие для программистов и любопытствующих (Адитья Бхаргава)](https://www.ozon.ru/context/detail/id/139296295/)
     - [ ] [Алгоритмы. Вводный курс (Томас Х. Кормен)](http://www.ozon.ru/context/detail/id/24903185/)
+
+- [ ] Ресурсы:
+    - [ ] [HackerRank](https://www.hackerrank.com/)
+    - [ ] [Codewars](https://www.codewars.com/)
 
 ---
 
@@ -310,7 +318,7 @@
     - [ ] Ruby
 
 - [ ] Статьи:
-    - [ ] [Типы данных](#Типы-данных-)
+    - [ ] Типы данных
     - [ ] [Функциональное программирование](#Функциональное-программирование-)
     - [ ] [Объектно-ориентированное программирование](#Объектно-ориентированное-программирование-)
     - [ ] [Тестирование](#Тестирование-)
@@ -319,7 +327,7 @@
 
 ### Паттерны программирования [&uarr;](#Содержание)
 - [ ] Познакомиться cо слелующими типами паттернов:
-    - [ ] Порождающие шаблоны проектирования 
+    - [ ] Порождающие шаблоны проектирования
     - [ ] Структурные шаблоны проектирования
     - [ ] Поведенческие шаблоны проектирования
 
@@ -430,8 +438,8 @@
 - [ ] Список пакетных менеджеров:
     - [ ] Для PHP - [composer](https://getcomposer.org/)
     - [ ] Для Python - [pip](https://pypi.python.org/pypi/pip)
-    - [ ] Для Ruby - [gem](https://rubygems.org/)
-    - [ ] Для Javascript - [npm](https://www.npmjs.com/)
+    - [ ] Для Ruby - [bundler](http://bundler.io/)
+    - [ ] Для Javascript - [npm](https://www.npmjs.com/), [yarn](https://yarnpkg.com/)
 
 - [ ] Статьи:
     - [ ] [Composer — менеджер зависимостей для PHP (habrahabr)](https://habrahabr.ru/post/145946/)
@@ -479,7 +487,7 @@
 ### JavaScript [&uarr;](#Содержание)
 - [ ] Познакомиться с такими понятиями как:
     - [ ] Переменные
-    - [ ] [Типы данных](#Типы-данных-)
+    - [ ] Типы данных
     - [ ] Функции
     - [ ] Рекурсия
     - [ ] Замыкания
@@ -491,6 +499,7 @@
 - [ ] Документации, книги:
     - [ ] [Eloquent JavaScript](https://karmazzin.gitbooks.io/eloquentjavascript_ru/content/)
     - [ ] [learn.javascript](https://learn.javascript.ru/)
+    - [ ] [MDN](https://developer.mozilla.org/bm/docs/Web/JavaScript)
     - [ ] [ECMAScript 6 features](https://github.com/lukehoban/es6features)
 
 ---
@@ -515,10 +524,10 @@
 
 Список библиотек:
 - [ ] [jQuery](https://jquery.com/)
+- [ ] [ReactJS](https://reactjs.org/)
 - [ ] [Underscore - набор полезных функций](http://underscorejs.org/)
 - [ ] [Modernizr - обнаруживает HTML5 и CSS3 функции в браузере пользователя](https://modernizr.com/)
 - [ ] [Babel - компилятор для написания JavaScript следующего поколения](https://babeljs.io/)
-- [ ] [Vue - создание интерактивных интерфейсов](http://vuejs.org/)
 - [ ] [Three - 3D](http://threejs.org/)
 - [ ] [WOW - анимация при прокрутки страницы](http://mynameismatthieu.com/WOW/)
 - [ ] [Moment - Работа с датой и временем](http://momentjs.com/)
@@ -541,7 +550,7 @@
     - [ ] [Less](http://lesscss.org/)
     - [ ] [Stylus](http://stylus-lang.com/)
 
-- [ ] Сытатьи:
+- [ ] Статьи:
     - [ ] [Руководство по написанию разумного, поддерживаемого и масштабируемого Sass](https://sass-guidelin.es/ru/)
 
 ---
@@ -562,7 +571,7 @@
 ---
 
 ### Пакетный менеджер [&uarr;](#Содержание)
-- [ ] Список пакетных менеджеры:
+- [ ] Список пакетных менеджеров:
     - [ ] [Bower](https://bower.io/)
     - [ ] [npm](https://www.npmjs.com/)
     - [ ] [Yarn](https://yarnpkg.com/)
@@ -588,8 +597,8 @@
 Существуют разные фреймворки, не нужно изучать всё сразу, необходимо взять несколько фреймворков за основу.
 
 Список фреймворков:
-- [ ] [ReactJS](https://facebook.github.io/react/)
 - [ ] [AngularJS](https://angular.io/)
+- [ ] [Vue - создание интерактивных интерфейсов](http://vuejs.org/)
 - [ ] [Backbone](http://backbonejs.org/)
 - [ ] [Ember](http://emberjs.com/)
 
